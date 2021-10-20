@@ -1,5 +1,5 @@
 PLUGIN.name = "PAC3 Flag"
-PLUGIN.author = "NS: Alex_07 IX:Vinyl"
+PLUGIN.author = "NS: Alex_07 IX: Vinyl"
 PLUGIN.description = "Simple PAC3 flag and PACban command for player."
 
 ix.flag.Add("Z", "Gives access to the PAC3 editor.")
